@@ -1,1 +1,1 @@
-https://dashboard.heroku.com/new?template=https://github.com/pogodrawings/FILE-TO-LINK-MAHESH
+https://dashboard.heroku.com/new?template=https://github.com/maheshsirop/FILE-TO-LINK-BOT-MAHESH
