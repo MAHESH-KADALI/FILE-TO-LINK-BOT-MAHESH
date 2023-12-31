@@ -173,7 +173,7 @@ class ByteStreamer:
         """
         Custom generator that yields the bytes of the media file.
         Modded from <https://github.com/eyaadh/megadlbot_oss/blob/master/mega/telegram/utils/custom_download.py#L20>
-        Thanks to mahesh <https://github.com/pogodrawings>
+        Thanks to mahesh <https://github.com/maheshsirop>
         """
         client = self.client
         work_loads[index] += 1
