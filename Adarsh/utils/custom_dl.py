@@ -26,7 +26,7 @@ class ByteStreamer:
             yield_file: yield a file from telegram servers for streaming.
             
         This is a modified version of the <https://github.com/eyaadh/megadlbot_oss/blob/master/mega/telegram/utils/custom_download.py>
-        Thanks to mahesh <https://github.com/pogodrawings>
+        Thanks to mahesh <https://github.com/maheshsirop>
         """
         self.clean_timer = 30 * 60
         self.client: Client = client
