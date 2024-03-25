@@ -1,7 +1,7 @@
 pyrogram
-tgcrypto<=1.2.3
-aiohttp<=3.8.5
-python-dotenv<=0.20.0
+tgcrypto
+aiohttp
+python-dotenv
 motor
 aiofiles
 dnspython
