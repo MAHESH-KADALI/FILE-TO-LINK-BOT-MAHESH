@@ -1,4 +1,3 @@
-# (c) adarsh-goel
 import os
 import sys
 import glob
@@ -66,7 +65,7 @@ async def start_services():
     print('\n')
     print('---------------------------------------------------------------------------------------------------------')
     print('---------------------------------------------------------------------------------------------------------')
-    print(' follow me for more such exciting bots! https://github.com/maheshsirop')
+    print(' follow me for more such exciting bots! https://github.com/mahesh-kadali')
     print('---------------------------------------------------------------------------------------------------------')
     print('\n')
     print('----------------------- Service Started -----------------------------------------------------------------')
@@ -76,7 +75,7 @@ async def start_services():
     if Var.ON_HEROKU:
         print('                        app runnng on =>> {}'.format(Var.FQDN))
     print('---------------------------------------------------------------------------------------------------------')
-    print('Give a star to my repo https://github.com/maheshsirop also follow me for new bots')
+    print('Give a star for my hardwork https://github.com/mahesh-kadali  also follow me for new bots')
     print('---------------------------------------------------------------------------------------------------------')
     await idle()
 
