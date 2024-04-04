@@ -1,5 +1,3 @@
-# (c) adarsh-goel
-
 import asyncio
 import logging
 from ..vars import Var
