@@ -1,4 +1,3 @@
-# (c) @adarsh-goel
 import os
 import time
 import string
