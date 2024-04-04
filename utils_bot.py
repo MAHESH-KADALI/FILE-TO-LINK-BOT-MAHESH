@@ -4,8 +4,9 @@ import threading
 import time
 from asyncio import TimeoutError
 from pyrogram import filters
+from Madhu.vars import Var
 
-LOGGER = logging.getLogger(__name__)
+logger = logging.getLogger(__name__)
 SIZE_UNITS = ['B', 'KB', 'MB', 'GB', 'TB', 'PB']
 
 class setInterval:
@@ -76,3 +77,5 @@ def readable_time(seconds: int) -> str:
     seconds = int(seconds)
     result += f'{seconds}s'
     return result
+
+
