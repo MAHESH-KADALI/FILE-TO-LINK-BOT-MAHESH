@@ -9,4 +9,4 @@ dnspython
 apscheduler 
 requests 
 psutil 
-pyromod
+pyromod==1.5
