@@ -1,4 +1,6 @@
-pyrogram 
+pyrofork 
+pyrogram
+pymongo
 tgcrypto 
 aiohttp 
 python-dotenv 
