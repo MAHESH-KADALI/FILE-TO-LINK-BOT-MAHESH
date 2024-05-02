@@ -1,4 +1,3 @@
-pyrofork 
 pyrogram
 tgcrypto 
 aiohttp 
@@ -9,4 +8,4 @@ dnspython
 apscheduler 
 requests 
 psutil 
-pyromod==1.5
+pyromod
